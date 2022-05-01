@@ -1,0 +1,13 @@
+C:\Users\harmo\Desktop\StockManagement.exe
+C:\Users\harmo\Desktop\StockManagement.dll
+C:\Users\harmo\Desktop\StockManagement.deps.json
+C:\Users\harmo\Desktop\StockManagement.runtimeconfig.json
+C:\Users\harmo\Desktop\StockManagement.pdb
+C:\Users\harmo\Desktop\CircularProgressBar.dll
+C:\Users\harmo\Desktop\System.Data.SqlClient.dll
+C:\Users\harmo\Desktop\WinFormAnimation.dll
+C:\Users\harmo\Desktop\runtimes\win-arm64\native\sni.dll
+C:\Users\harmo\Desktop\runtimes\win-x64\native\sni.dll
+C:\Users\harmo\Desktop\runtimes\win-x86\native\sni.dll
+C:\Users\harmo\Desktop\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\harmo\Desktop\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
